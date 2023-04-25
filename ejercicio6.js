@@ -26,4 +26,4 @@ const knowIfLanguage = (array, lang) => {
   return foundLanguage;
 };
 
-console.log(knowIfLanguage(list, "RUBY"));
+console.log(knowIfLanguage(list, "ruby"));
